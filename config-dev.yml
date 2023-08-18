@@ -1,2 +1,4 @@
 server:
   port: 3355
+config:
+  info: this dev
